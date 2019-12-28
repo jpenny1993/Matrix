@@ -1,0 +1,11 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <ApplicationIcon>icon_white.ico</ApplicationIcon>
+    <Authors>John Penny</Authors>
+    <NeutralLanguage>en-GB</NeutralLanguage>
+  </PropertyGroup>
+
+</Project>
