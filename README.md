@@ -9,4 +9,4 @@ I lost the original c++ code I wrote for the initial version I made in 2013, I'v
 ## Releases
 
 - [28/12/2019](./binaries/2019-12-28.zip) - Rewritten for dotnet core 3.1
-- [04/10/2013](./binaries/2013-10-04.zip) - Originial C++ Version
+- [04/10/2013](./binaries/2013-10-04.zip) - Original C++ Version
